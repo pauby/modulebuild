@@ -55,7 +55,7 @@ This script helps to import modules and the code being separated into it's own s
 
 You are welcome to contribute to this project. There are many ways you can contribute:
 
-1. Submit [issues](issues);
+1. Submit [issues](https://github.com/pauby/modulebuild/issues);
 2. Submit a fix for an issue;
 3. Submit a feature request;
 4. Submit test cases;
