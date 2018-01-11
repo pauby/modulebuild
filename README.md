@@ -51,7 +51,7 @@ This should contain the unit testing Pester tests for the FUNCTION. Note the Con
 ### SharedTestHelper.ps1
 This script helps to import modules and the code being separated into it's own script allows reusability. The latest version of this can always be found here.
 
-## Contributing to PSCodeHealth
+## Contributing
 
 You are welcome to contribute to this project. There are many ways you can contribute:
 
