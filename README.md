@@ -46,7 +46,7 @@ This is the main `Invoke-Build` script. The latest version of this can always be
 ## Test Scripts
 
 ### FUNCTION.Tests.ps1
-This should contain the unit testing Pester tests for the FUNCTION. Note the Contextx / Categories of tests.
+This should contain the unit testing Pester tests for the FUNCTION. Note the Context / Categories of tests.
 
 ### SharedTestHelper.ps1
 This script helps to import modules and the code being separated into it's own script allows reusability. The latest version of this can always be found here.
